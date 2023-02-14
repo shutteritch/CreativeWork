@@ -4,15 +4,6 @@ For many years before finding myself working in Product I've worked as a photogr
 
 [<img src="https://img.youtube.com/vi/ZdRXhGIedq8/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZdRXhGIedq8 "The Boat Race - Showtime")
 
-[![The Boat Race - Showtime]
-(https://img.youtube.com/vi/ZdRXhGIedq8/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ZdRXhGIedq8)
+[<img src="https://img.youtube.com/vi/ZgkpiENVNKs/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZgkpiENVNKs "The Oarsman's Song")
 
-[![The Oarsman's Song]
-(https://img.youtube.com/vi/ZgkpiENVNKs/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ZgkpiENVNKs)
-
-[![Cambridge University Women]
-(https://img.youtube.com/vi/skPV-qPVUws/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=skPV-qPVUws)
-
+[<img src="https://img.youtube.com/vi/skPV-qPVUws/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=skPV-qPVUws "Cambridge University Women")
