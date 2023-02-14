@@ -2,7 +2,7 @@
 
 For many years before finding myself working in Product I've worked as a photographer and videographer successfully running a sports events photography business as well as working with clients such as Hydrow, The Boat Race, Henley Royal Regatta, Champagne Lanson, Wattbike, Ludum and many more. Here are some recent favourites:
 
-{% include youtube.html id="ZdRXhGIedq8" %}
+[<img src="https://img.youtube.com/vi/ZdRXhGIedq8/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZdRXhGIedq8 "The Boat Race - Showtime")
 
 [![The Boat Race - Showtime]
 (https://img.youtube.com/vi/ZdRXhGIedq8/maxresdefault.jpg)]
